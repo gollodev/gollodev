@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">Full Stack Dev from Venezuela, living in Colombia</h3>
+<h3 align="center">Innovative Programmer and Internet Entrepreneur striving to make the world a more unified and connected place.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gollodev&label=Profile%20views&color=0e75b6&style=flat" alt="gollodev" /> </p>
 
